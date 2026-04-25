@@ -123,7 +123,9 @@ The central finding: **condition ratings alone identify 1.2% of bridges as conce
 
 ## Interactive Explorer
 
-The `bridge_risk_explorer.html` app lets you:
+**[Launch the live explorer](https://aardid.github.io/uc_claude_code_workshop/)** -- no installation required, runs entirely in your browser.
+
+The explorer lets you:
 
 - **Adjust risk weights** with sliders (condition, age, traffic)
 - **Filter by tier** (Low, Moderate, High, Critical)
